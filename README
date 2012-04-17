@@ -1,0 +1,4 @@
+Example: http://nxtalks.appspot.com/
+
+1.已知bug：服务器无法检测客户端断开，从而引起的各种问题
+2.期待gae支持websocket
